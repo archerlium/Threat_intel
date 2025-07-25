@@ -1,1 +1,3 @@
-# Threat_intel
+# ELK: Threat Hunting and Intelligence
+
+Conducted a practical threat hunting and threat intelligence project in a virtual Elastic Stack (ELK) SIEM environment with multiple vulnerable client machines and servers. The project simulated various attack phases (Initial Access, Execution, and Command and Control) based on the MITRE ATT&CK framework. Used ELK to hunt for threats such as brute force attacks, remote code execution (RCE), suspicious CLI commands, and C2 communication. Threat intelligence was performed using tools like VirusTotal, Urlscan, and Any.run for analysis of IP addresses, domains, and file hashes.
